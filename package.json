@@ -1,0 +1,14 @@
+{
+  "name": "ebay-bot",
+  "version": "1.0.0",
+  "description": "ebay per day sales of ps5 and xbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
+}
